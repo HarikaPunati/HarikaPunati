@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Harika Punati
 
-<!--
-**HarikaPunati/HarikaPunati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Analyst | SQL | Python | Power BI | Tableau  
+🔍 Turning raw data into meaningful insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+
+### 🏨 Hotel Booking Cancellation Prediction
+- ML models to predict booking cancellations
+- Tools: Python, XGBoost, Scikit-learn
+- [GitHub Repo](https://github.com/HarikaPunati/hotel-booking-cancellation)
+
+### 🛒 Online Shopper Revenue Classification
+- Predicting whether a shopper will generate revenue
+- Models: Logistic Regression, SVM, Naive Bayes
+- [GitHub Repo](https://github.com/HarikaPunati/online-shopping-revenue)
+
+---
+
+## 🏆 Certifications
+- 📜 Google Data Analytics Professional Certificate
+- 📜 Coursera: SQL for Data Science
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: harika@example.com
+- 🌐 [LinkedIn](https://linkedin.com/in/harika-punati)
+
