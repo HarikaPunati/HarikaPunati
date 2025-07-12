@@ -25,7 +25,6 @@ I'm a data analyst with **3 years of experience**, with a strong background in:
 **Collaboration:** Jira, Confluence, Scrum
 
 ---
-
 ## 🎓 Education
 
 **M.S. in Data Analytics Engineering**  
@@ -33,9 +32,10 @@ I'm a data analyst with **3 years of experience**, with a strong background in:
 📅 2023 – 2025  
 
 **Relevant Coursework:**  
-- Foundations of Data Analytics , - Computation and Visualization  , - Data Management for Analytics  , - Data Mining in Engineering  , - Deterministic Operations Research  ,- Statistical Learning for Engineering , - Financial Management  ,- Economic Decision Making
+• Foundations of Data Analytics  • Computation and Visualization  • Data Management for Analytics  • Data Mining in Engineering  • Deterministic Operations Research  • Statistical Learning for Engineering  • Financial Management  • Economic Decision Making  
 
-**B.tech in Computer Science**  
+
+**B.Tech in Computer Science**  
 *SRM University, Amaravati, India*  
 📅 2017 – 2021
 
