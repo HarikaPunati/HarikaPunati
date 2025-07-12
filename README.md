@@ -33,16 +33,7 @@ I'm a data analyst with **3 years of experience**, with a strong background in:
 📅 2023 – 2025  
 
 **Relevant Coursework:**  
-- Foundations of Data Analytics  
-- Computation and Visualization  
-- Data Management for Analytics  
-- Data Mining in Engineering  
-- Deterministic Operations Research  
-- Statistical Learning for Engineering  
-- Financial Management  
-- Economic Decision Making
-
----
+- Foundations of Data Analytics , - Computation and Visualization  , - Data Management for Analytics  , - Data Mining in Engineering  , - Deterministic Operations Research  ,- Statistical Learning for Engineering , - Financial Management  ,- Economic Decision Making
 
 **B.tech in Computer Science**  
 *SRM University, Amaravati, India*  
@@ -65,6 +56,7 @@ I'm a data analyst with **3 years of experience**, with a strong background in:
 - [Data Analytics & Visualization Job Simulation – Accenture/Forage](https://theforage.com/) 
 - [Data Science Job Simulation – Forage](https://theforage.com/) 
 - [M.S. in Data Analytics Engineering – Northeastern University (CeDiploma)](https://digitalcredentials.northeastern.edu/) 
+
 
 
 🌟 *Let’s connect and collaborate on meaningful data projects!*
