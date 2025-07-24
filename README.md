@@ -30,7 +30,7 @@ I’m actively seeking **Data Analyst opportunities** where I can contribute to 
 
 **M.S. in Data Analytics Engineering**  
 *Northeastern University, Boston*  
-📅 2023 – 2025  
+📅 2022 – 2024  
 
 **Relevant Coursework:**  
 • Foundations of Data Analytics  • Computation and Visualization  • Data Management for Analytics  • Data Mining in Engineering  • Deterministic Operations Research  • Statistical Learning for Engineering  • Financial Management  • Economic Decision Making  
@@ -38,7 +38,7 @@ I’m actively seeking **Data Analyst opportunities** where I can contribute to 
 
 **B.Tech in Computer Science**
 *SRM University, Amaravati, India*  
-📅 2017 – 2021
+📅 2018 – 2022
 
 ---
 
