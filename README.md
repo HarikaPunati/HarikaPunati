@@ -16,12 +16,6 @@ My GitHub showcases projects and work focused on data analysis, business intelli
 
 ---
 
-## Projects
-
-Selected projects are pinned below.
-
----
-
 ## Connect with me
 
 - LinkedIn: [linkedin.com/in/HarikaPunati](https://linkedin.com/in/HarikaPunati)
