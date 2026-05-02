@@ -1,36 +1,32 @@
 # Harika Punati
 
-Data Analyst | Business Intelligence | AI-Driven Analytics
+Hey, welcome to my GitHub — this is Harika Punati.
+I am a Data Analyst who enjoys solving complex data problems and building data-driven solutions.
 
-SQL and Python practitioner building data pipelines, dashboards, and predictive models.
-Focused on making data useful — from raw ingestion to decision-ready insights.
-
----
-
-## Skills
-
-**Data:** SQL (MySQL, PostgreSQL, SQLite)
-**Programming:** Python (pandas, numpy, sklearn)
-**Visualization:** Tableau
-**Cloud:** AWS / Azure (Exposure)
+My GitHub showcases projects and work focused on data analysis, business intelligence, and applying AI in analytics workflows.
 
 ---
 
-## Current Focus
+## Technical Skills
 
-- Applying AI in data analysis workflows
-- Building analytics + AI projects
-- Exploring automation in reporting and insights
+- SQL
+- Python (pandas, numpy, sklearn)
+- Tableau
+- AWS / Azure (Exposure)
 
 ---
 
 ## Projects
 
-Selected projects are pinned below, focusing on data analysis, BI dashboards, and predictive modeling.
+Selected projects are pinned below.
 
 ---
 
-## Contact
+## Connect with me
 
 - LinkedIn: [linkedin.com/in/HarikaPunati](https://linkedin.com/in/HarikaPunati)
 - Email: hpunati1101@gmail.com
+
+---
+
+If you are interested in collaborating or discussing data-related work, feel free to reach out.
