@@ -9,12 +9,10 @@ Focused on making data useful — from raw ingestion to decision-ready insights.
 
 ## Skills
 
-| Area | Tools |
-|---|---|
-| Data | SQL (MySQL, PostgreSQL, SQLite) |
-| Programming | Python (pandas, numpy, sklearn) |
-| Visualization | Tableau |
-| Cloud | AWS / Azure (Exposure) |
+**Data:** SQL (MySQL, PostgreSQL, SQLite)
+**Programming:** Python (pandas, numpy, sklearn)
+**Visualization:** Tableau
+**Cloud:** AWS / Azure (Exposure)
 
 ---
 
