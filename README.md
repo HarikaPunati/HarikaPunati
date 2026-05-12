@@ -57,7 +57,7 @@ _Full list on my [LinkedIn](https://linkedin.com/in/harikapunati)._
 
 ## Connect with me
 
-- Email: harikapunati11.com
+- Email: harikapunati11@gmail.com
 
 ---
 
