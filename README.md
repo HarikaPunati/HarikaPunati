@@ -18,8 +18,8 @@ My GitHub showcases projects and work focused on data analysis, business intelli
 
 ## Connect with me
 
-- LinkedIn: [linkedin.com/in/HarikaPunati](https://linkedin.com/in/HarikaPunati)
-- Email: harika11.edu@gmail.com
+- LinkedIn: [linkedin.com/in/harikapunati](https://www.linkedin.com/in/harikapunati)
+- Email: hpunati1101@gmail.com
 
 ---
 
