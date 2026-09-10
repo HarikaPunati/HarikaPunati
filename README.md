@@ -2,14 +2,6 @@
 
 Data Analyst with 2+ years of experience in SQL, Python, and BI tools. I specialize in data validation, cleansing, and dashboard reporting, turning multi-source raw data into reliable business insights. Currently at Brilliant Software Solutions Inc in San Francisco.
 
-## Experience
-
-**Data Analyst, Brilliant Software Solutions Inc** (since June 2024)
-- Validated data across 35+ recurring reports, cutting discrepancies by 30%
-- Processed 1M+ records with SQL and Python, reducing manual reconciliation by 40%
-- Built Tableau and Power BI dashboards for stakeholder KPI tracking
-- Reduced manual reporting time by 50% through process improvements
-
 ## Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
